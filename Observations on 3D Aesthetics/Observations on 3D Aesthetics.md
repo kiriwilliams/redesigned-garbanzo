@@ -13,8 +13,8 @@ For example, [Priichu's Eileen the Crow](https://skfb.ly/VTUt) only has detailed
 ## 2D Illustration
 
 ![illustration](illustration.png "Illustration")
+https://skfb.ly/6SFE8
 This aesthetic tricks us into thinking it's 2D. It is quite amazing and beautiful.
-
 
 | Defining Features                                    | Pros                                                              | Cons                              |
 | ------------------------------------------------------ | ------------------------------------------------------------------- | ----------------------------------- |
@@ -24,6 +24,7 @@ This aesthetic tricks us into thinking it's 2D. It is quite amazing and beautifu
 ## Toon
 
 ![Toon](toon.png "Toon")
+https://skfb.ly/6yyAP
 Another 2D look, but drawing on cartoons and comics rather than traditional illustration. Characterized by a visible outline of consistent width, it's commonly seen in modern cartoons that attempt to maintain the 2D aesthetic. I would say Borderlands is in this category.
 
 
@@ -72,26 +73,31 @@ Despite being called "low-poly", this aesthetic isn't necessarily low on polygon
 #### Crystalized
 
 ![crystalized](crystalized.png "crystalized")
+https://skfb.ly/KVOq
 This aesthetic is so low on polygons that there are no round shapes. Everything is flat faces, and none have textures on them. Often seen in relaxing idle mobile games. Also Firewatch.
 
 #### Gummy
 
 ![gummy](gummy.png "gummy")
+https://skfb.ly/6tGtN
 This aesthetic doesn't quite look like clay, but has a very soft and smooth texture. Often seen in city building and resource management mobile games
 
 #### Smooth Vectors
 
 ![smooth](smooth.png "smooth")
+https://skfb.ly/o6ZRY
 Adjacent to the gummy look, but with fewer polygons and a flatter look. Often seen in puzzle games (Untitled Goose Game), but also feels like some corporate training/information videos use this style? Or certain educational videos on youtube. Friendly.
 
 #### Flat
 
 ![flat](flat.png "flat")
+https://skfb.ly/oHsAO
 Models have a low polygon count and might fall into the smooth vector or crystalized categories, but this aesthetic is created by the lighting/shaders and is characterized by a very stark, graphic look.
 
 ## Edgy Retro
 
 ![harsh](harsh.png "harsh")
+https://www.behance.net/gallery/37715841/Motion-Studies/modules/250498451
 Adjacent to the resurgence of "PS1 aesthetic," extremely low poly and uninterested in realism, this aesthetic is all about hard edges, weird angles, and embracing clipping.
 
 
